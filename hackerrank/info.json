@@ -1,0 +1,12 @@
+{
+  "Student info" : {
+    "FirstName" : "Irina",
+    "LastName" : "Romantseva",
+    "BirthDay" : "30.12.1998",
+    "Address"  : { 
+                   "StreetAdress" : "Frunze street 475/15a",
+                     "City" : "Bishkek"
+                  },
+    "PhoneNumber" : "996556101628",
+    "E-mail" : "lina.rio@mail.ru"}
+} 
